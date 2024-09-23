@@ -1,0 +1,103 @@
+{
+    "theme": {
+        "accent1": "#0E2C4F",
+        "accent2": "#F4EAE0",
+        "accent3": "#FFFFFF",
+        "accent4": "#FFFFFF",
+        "accent5": "#FFFFFF",
+        "accent6": "#FFFFFF",
+        "hyperlink": "#0563C1"
+    },
+    "fundTicker": "ISPY.ETF",
+    "fundName": "Fake Fund Managers S&P 500 ETF",
+    "fundDescription": "The Fake Fund Managers S&P 500 ETF is an exchange-traded fund that aims to provide investment results that, before fees and expenses, correspond generally to the total return performance of the S&P 500 Index.",
+    "overviewParagraph": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+    "pitchBullets" : [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    ],
+    "isESG": false,
+    "esgParagraph": "",
+    "inceptionDate": "2001-01-01",
+    "benchmarkName": "S&P 500 Index",
+    "totalCosts": "0.03%",
+    "fundSize": "$1,427,793,543",
+    "exchange": "NYSE Arca",
+    "observedVolatility": "15.0%",
+    "topTenHoldings": [
+        {
+            "name": "Apple Inc.",
+            "ticker": "AAPL",
+            "weight": "6.0%"
+        },
+        {
+            "name": "Microsoft Corporation",
+            "ticker": "MSFT",
+            "weight": "5.0%"
+        },
+        {
+            "name": "Amazon.com Inc.",
+            "ticker": "AMZN",
+            "weight": "4.0%"
+        },
+        {
+            "name": "Facebook Inc.",
+            "ticker": "FB",
+            "weight": "3.0%"
+        },
+        {
+            "name": "Alphabet Inc.",
+            "ticker": "GOOGL",
+            "weight": "2.0%"
+        },
+        {
+            "name": "Alphabet Inc.",
+            "ticker": "GOOG",
+            "weight": "2.0%"
+        },
+        {
+            "name": "Berkshire Hathaway Inc.",
+            "ticker": "BRK.B",
+            "weight": "2.0%"
+        },
+        {
+            "name": "Johnson & Johnson",
+            "ticker": "JNJ",
+            "weight": "2.0%"
+        },
+        {
+            "name": "Visa Inc.",
+            "ticker": "V",
+            "weight": "2.0%"
+        },
+        {
+            "name": "Procter & Gamble Company",
+            "ticker": "PG",
+            "weight": "2.0%"
+        }
+    ],
+    "performanceData": {
+        "_1Year": "20.0%",
+        "_3Year": "15.0%",
+        "_5Year": "12.0%",
+        "_10Year": "10.0%"
+    },
+    "performanceDisclaimer": "Past performance is not indicative of future results. The performance data quoted represents past performance and current returns may be lower or higher. Investment return and principal value will fluctuate, so that shares, when redeemed, may be worth more or less than their original cost.",
+    "managerName": "Fake Fund Managers Inc.",
+    "managerBio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "managerEmail": "info@fakefundmanagement.inc",
+    "managerPhone": "1-800-555-5555",
+    "fundDocuments": [
+        {
+            "name": "Prospectus",
+            "url": "https://www.fakefundmanagement.inc/prospectus"
+        },
+        {
+            "name": "Annual Report",
+            "url": "https://www.fakefundmanagement.inc/annualreport"
+        }
+    ]
+
+}
